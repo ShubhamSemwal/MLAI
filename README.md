@@ -26,17 +26,10 @@ CLASS - diagnose: (2 or 4). Benign (non-cancerous) or malignant (cancerous) lump
 
 **Libraries required**
 
-Pandas
-Numpy
-Seaborn
-Matpotlib
-Itertools
-Sklearn
-warnings
-Plotly
+ • Pandas • Numpy • Seaborn • Matpotlib • Itertools • Sklearn • warnings • Plotly
 
-**System Specifications & Python Frameworks For the implementation of this project we used a system with these specification below.**
+**System Specifications**
 
-System Specifications • Processor Apple M1/M2 silicon • macOS Monterey • Version - 12.5 • System Type x64-based PC • Installed Physical Memory 8.00 GB
+ • Processor Apple M1/M2 silicon • macOS Monterey • Version - 12.5 • System Type x64-based PC • Installed Physical Memory 8.00 GB
 
 The code was written in Python and the environment was set up on **Google Colab**.
