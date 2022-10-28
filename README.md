@@ -40,10 +40,3 @@ Plotly
 System Specifications • Processor Apple M1/M2 silicon • macOS Monterey • Version - 12.5 • System Type x64-based PC • Installed Physical Memory 8.00 GB
 
 The code was written in Python and the environment was set up on **Google Colab**.
-
-
-Important variables to narrow study beyond what we do.
-What rises to most important.
-Conclusion what is that variable
-How to interpret the coef.
-interactions of variables
