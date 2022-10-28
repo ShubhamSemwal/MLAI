@@ -1,4 +1,4 @@
-# MLAI
+# BUAI 446
 
 # Breast Cancer Detection
 
